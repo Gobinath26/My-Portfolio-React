@@ -11,7 +11,7 @@ export default function Contact() {
 
           {/* <div className="contact-details-container"> */}
             <div className="row mt-5">
-              <div className="col-12 col-sm-6  d-flex justify-content-center">
+              <div className="col-12 col-sm-6 d-flex justify-content-center">
                 <div className="location-box">
                   <div className="location-icon">
                     <svg

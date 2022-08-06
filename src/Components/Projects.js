@@ -106,7 +106,8 @@ export default function Projects() {
                   </a>
                 </div>
                 <div className="card-description">
-                This Web App Will Be Useful For Pet Owners To Hire Pet Caretakers When They Are Not At Home. User Should Mentioned All The Required Details Like Pet Type , Breed Type , Number Of Hours (In NEED A CARETAKER Section). After This User Redirected To Payment Section, Based On Number Of Hours Price Will Be Calculated. Once The Payment Is Completed Order Will Be Confirmed And Shown To Caretakers In Be A CARETAKER Section. Here The Caretakers Can Accept The Order Based On Their Preference And Location.
+                {/* This Web App Will Be Useful For Pet Owners To Hire Pet Caretakers When They Are Not At Home. User Should Mentioned All The Required Details Like Pet Type , Breed Type , Number Of Hours (In NEED A CARETAKER Section). After This User Redirected To Payment Section, Based On Number Of Hours Price Will Be Calculated. Once The Payment Is Completed Order Will Be Confirmed And Shown To Caretakers In Be A CARETAKER Section. Here The Caretakers Can Accept The Order Based On Their Preference And Location. */}
+                This is Fullstack MERN website made it as a Petsiter App.
                 </div>
                 <div className="card-footer">
                   <p>
@@ -175,8 +176,7 @@ export default function Projects() {
                   </a>
                 </div>
                 <div className="card-description">
-                  This is Fullstack MERN website made it as a Cartoon App. This
-                  application is used to watch Aliens and their informations.
+                  This is Fullstack MERN website made it as a Cartoon App.
                 </div>
                 <div className="card-footer">
                   <p>
@@ -249,7 +249,8 @@ export default function Projects() {
                   </a>
                 </div>
                 <div className="card-description">
-                Shows The Status Bar Of The Students Based On There Task Submissions And Attendance.In This Project Student Should Select Class Number In Which They Want To Submit A Task Or Attendance. The Submitted Task Will Be Graded By Mentor. Students Can Edit Or Delete The Task Before Graded, But Once Mentor Graded The Task It Can't Change. Attendance Can Be Submitted Only Once It Can't Change . All Completed Task Appears In Task Section.Mentors Can Rate The Task In The RATE TASK Section.
+                {/* Shows The Status Bar Of The Students Based On There Task Submissions And Attendance.In This Project Student Should Select Class Number In Which They Want To Submit A Task Or Attendance. The Submitted Task Will Be Graded By Mentor. Students Can Edit Or Delete The Task Before Graded, But Once Mentor Graded The Task It Can't Change. Attendance Can Be Submitted Only Once It Can't Change . All Completed Task Appears In Task Section.Mentors Can Rate The Task In The RATE TASK Section. */}
+                This is Fullstack MERN website made it as a Student Dashboard.
                 </div>
                 <div className="card-footer">
                   <p>
@@ -318,7 +319,8 @@ export default function Projects() {
                   </a>
                 </div>
                 <div className="card-description">
-                This Web App Is Used To Place Custom Food Recipes Through Online. In This App User Should Paste The Youtube Video URL Link Of The Recipe And They Can Also Add Special Notes .This Video Will Be Watched By Chefs, After This Chef Will Analyse That This Customized Dish Can Be Made Or Not. Accept The Recipe If They Can And Chefs Will Mention The Price Of The Custom Order .This Price Will Be Shown To Customer. When User Completes The Payment, Order Will Be Confirmed.
+                {/* This Web App Is Used To Place Custom Food Recipes Through Online. In This App User Should Paste The Youtube Video URL Link Of The Recipe And They Can Also Add Special Notes .This Video Will Be Watched By Chefs, After This Chef Will Analyse That This Customized Dish Can Be Made Or Not. Accept The Recipe If They Can And Chefs Will Mention The Price Of The Custom Order .This Price Will Be Shown To Customer. When User Completes The Payment, Order Will Be Confirmed. */}
+                This is Fullstack MERN website made it as a Cloud chef App.
                 </div>
                 <div className="card-footer">
                   <p>
@@ -390,8 +392,7 @@ export default function Projects() {
                   </a>
                 </div>
                 <div className="card-description">
-                  This is a Frontend Catering website made. This
-                  application is used to buy our Dishes.
+                  This is a Frontend Catering website.
                 </div>
                 <div className="card-footer">
                   <p>

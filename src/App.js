@@ -14,10 +14,10 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home />
-            <About />
+            {/* <About />
             <Skills />
             <Projects />
-            <Contact />
+            <Contact /> */}
           </Route>
           <Route path="/About">
             <About />
