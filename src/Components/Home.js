@@ -10,7 +10,7 @@ export default function Home(){
                         <h2 className="sub-name">I am a <span style={{color:"crimson"}}>Fullstack Developer</span></h2>
                         <p className="home-para">A self-taught developer with an interest in Web Development.</p>
                         <div className="github-linkedin">
-                        <a href="https://app.luminpdf.com/viewer/62ee746d7e3d5a0d0085a611" target="_blank" type="button" className="btn btn-outline-secondary av">View My CV. <i className="bi bi-box-arrow-up-right" style={{color:"rgb(65, 201, 255)"}}></i></a>
+                        <a href="https://drive.google.com/file/d/1L4yK7TH5jQafev9360HdTkha6gWRXQsy/view?usp=sharing" target="_blank" type="button" className="btn btn-outline-secondary av">View My CV. <i className="bi bi-box-arrow-up-right" style={{color:"rgb(65, 201, 255)"}}></i></a>
                         <a href="https://github.com/Gobinath26" target="_blank" className="btn btn-secondary av"><i className="bi bi-github" style={{color:"rgb(65, 201, 255)"}}></i> Github</a>
                         <a href="https://www.linkedin.com/in/gobinath-m-98019021a/" target="_blank" className="btn btn-outline-secondary av"><i className="bi bi-linkedin" style={{color:"rgb(65, 201, 255)"}}></i> LinkedIn</a>
                         </div>
